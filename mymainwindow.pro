@@ -22,4 +22,4 @@ FORMS    += mainwindow.ui
 RESOURCES += \
     myimages.qrc
 
-RC_ICONS = Note.ico
+RC_ICONS = Note.ico # Add Icon
