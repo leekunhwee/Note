@@ -13,7 +13,7 @@
 
 #include <QDialog>
 
-void MainWindow::newFile()
+void MainWindow::newFile() //新建文件
 {
     if (maybeSave()){
         isUntitled = true;
